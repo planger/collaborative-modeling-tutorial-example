@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ExtLibraryProfile="http://Papyrus/ExtLibraryProfile" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <uml:Model xmi:id="_2VowIH7yEeWdwMtb7cWokQ" name="Library">
+    <packagedElement xmi:type="uml:Package" xmi:id="_-29dsH8CEeWdwMtb7cWokQ" name="High Street Library">
+      <packagedElement xmi:type="uml:Class" xmi:id="_gaBbIH73EeWdwMtb7cWokQ" name="A Study in Scarlet"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_hBqp8H73EeWdwMtb7cWokQ" name="A Scandal in Bohemia"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_HnU6YH7zEeWdwMtb7cWokQ" name="Do Androids Dream of Electric Sheep?"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_MoqUAH74EeWdwMtb7cWokQ" name="Snow Crash"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_vP4msH74EeWdwMtb7cWokQ" name="Furiously Happy: A Funny Book About Horrible Things"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_wfaU4H74EeWdwMtb7cWokQ" name="Into the Wild"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_xgsywH74EeWdwMtb7cWokQ" name="Eclipse Magazin 2015"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_ZA6_QH76EeWdwMtb7cWokQ" name="Java Magazin 2014"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_wl42sH8AEeWdwMtb7cWokQ" name="Philip Langer"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_xDyToH8AEeWdwMtb7cWokQ" name="Alexandra Buzila"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_z-jfAH8pEeWdwMtb7cWokQ" name="John Smith"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_bnrlUH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_gaBbIH73EeWdwMtb7cWokQ"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_cGfoQH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_hBqp8H73EeWdwMtb7cWokQ"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_cibWUH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_HnU6YH7zEeWdwMtb7cWokQ"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_dBQAUH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_xgsywH74EeWdwMtb7cWokQ"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_dcr_IH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_ZA6_QH76EeWdwMtb7cWokQ"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_fmztUH8qEeWdwMtb7cWokQ" client="_xDyToH8AEeWdwMtb7cWokQ" supplier="_MoqUAH74EeWdwMtb7cWokQ"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_gAq-0H8qEeWdwMtb7cWokQ" client="_xDyToH8AEeWdwMtb7cWokQ" supplier="_vP4msH74EeWdwMtb7cWokQ"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_Q1j8AH8pEeWdwMtb7cWokQ" name="University Library">
+      <packagedElement xmi:type="uml:Class" xmi:id="_7FMSsH72EeWdwMtb7cWokQ" name="Murder on the Orient Express"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_hzNboH73EeWdwMtb7cWokQ" name="Brave New World "/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_e822YH7zEeWdwMtb7cWokQ" name="The Hitchhiker's Guide to the Galaxy"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_vvbCYH74EeWdwMtb7cWokQ" name="Catherine the Great: Portrait of a Woman "/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_W65G4H76EeWdwMtb7cWokQ" name="Smart Computing 2015"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_qqtVEH8pEeWdwMtb7cWokQ" name="Mickey Mouse Magazine 2015"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_8E1J8H8mEeWdwMtb7cWokQ" name="Laurent Delaigue"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_xsB_YH8AEeWdwMtb7cWokQ" name="Jane Doe"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_bpBMoH8rEeWdwMtb7cWokQ" client="_8E1J8H8mEeWdwMtb7cWokQ" supplier="_qqtVEH8pEeWdwMtb7cWokQ"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_cE3bIH8rEeWdwMtb7cWokQ" client="_8E1J8H8mEeWdwMtb7cWokQ" supplier="_vvbCYH74EeWdwMtb7cWokQ"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_cqAvkH8rEeWdwMtb7cWokQ" client="_xsB_YH8AEeWdwMtb7cWokQ" supplier="_e822YH7zEeWdwMtb7cWokQ"/>
+    </packagedElement>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_Up0gUH7zEeWdwMtb7cWokQ">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Up0gUX7zEeWdwMtb7cWokQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://Papyrus/ExtLibraryProfile#/"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://EXTLIBRARY_PROFILE/extlibrary.profile.uml#_LkNCUEomEeSz_ot9x6ZZgw"/>
+    </profileApplication>
+  </uml:Model>
+  <ExtLibraryProfile:Book xmi:id="_YiCIAH7zEeWdwMtb7cWokQ" title="Do Androids Dream of Electric Sheep?" publicationDate="28.05.1996" base_Class="_HnU6YH7zEeWdwMtb7cWokQ" copies="15" pages="256" category="ScienceFiction"/>
+  <ExtLibraryProfile:Book xmi:id="_f5dBgH7zEeWdwMtb7cWokQ" title="The Hitchhiker's Guide to the Galaxy" publicationDate="1979" base_Class="_e822YH7zEeWdwMtb7cWokQ" copies="77" pages="216" category="ScienceFiction"/>
+  <ExtLibraryProfile:Book xmi:id="_8FXWQH72EeWdwMtb7cWokQ" title="Murder on the Orient Express" publicationDate="1934" base_Class="_7FMSsH72EeWdwMtb7cWokQ" copies="12" pages="322"/>
+  <ExtLibraryProfile:Book xmi:id="_piCIgH73EeWdwMtb7cWokQ" title="A Study in Scarlet" publicationDate="1887" base_Class="_gaBbIH73EeWdwMtb7cWokQ" copies="26" pages="108"/>
+  <ExtLibraryProfile:Book xmi:id="_5QrysH73EeWdwMtb7cWokQ" title="A Scandal in Bohemia" publicationDate="1891" base_Class="_hBqp8H73EeWdwMtb7cWokQ" copies="20" pages="85"/>
+  <ExtLibraryProfile:Book xmi:id="_LaHdQH74EeWdwMtb7cWokQ" title="Brave New World " publicationDate="1932" base_Class="_hzNboH73EeWdwMtb7cWokQ" copies="103" pages="268" category="ScienceFiction"/>
+  <ExtLibraryProfile:Book xmi:id="_OiMogH74EeWdwMtb7cWokQ" title="Snow Crash" publicationDate="June 1992" base_Class="_MoqUAH74EeWdwMtb7cWokQ" copies="36" pages="470" category="ScienceFiction"/>
+  <ExtLibraryProfile:Book xmi:id="_4RvowH74EeWdwMtb7cWokQ" title="Furiously Happy: A Funny Book About Horrible Things" publicationDate="22.09.2015" base_Class="_vP4msH74EeWdwMtb7cWokQ" copies="20" pages="329" category="Biography"/>
+  <ExtLibraryProfile:Book xmi:id="_5GdqQH74EeWdwMtb7cWokQ" title="Catherine the Great: Portrait of a Woman" publicationDate="2011" base_Class="_vvbCYH74EeWdwMtb7cWokQ" copies="3" pages="625" category="Biography"/>
+  <ExtLibraryProfile:Book xmi:id="_5yMH0H74EeWdwMtb7cWokQ" title="Into the Wild" publicationDate="1996" base_Class="_wfaU4H74EeWdwMtb7cWokQ" copies="27" pages="207" category="Biography"/>
+  <ExtLibraryProfile:Periodical xmi:id="_lM_wAH75EeWdwMtb7cWokQ" title="Eclipse Magazin" publicationDate="2015" base_Class="_xgsywH74EeWdwMtb7cWokQ" issuesPerYear="6"/>
+  <ExtLibraryProfile:Periodical xmi:id="_YJ87AH76EeWdwMtb7cWokQ" title="Smart Computing" publicationDate="2015" base_Class="_W65G4H76EeWdwMtb7cWokQ" issuesPerYear="12"/>
+  <ExtLibraryProfile:Periodical xmi:id="_OsE14H77EeWdwMtb7cWokQ" title="Java Magazin" publicationDate="2014" base_Class="_ZA6_QH76EeWdwMtb7cWokQ" issuesPerYear="12"/>
+  <ExtLibraryProfile:Borrower xmi:id="_zlRY8H8AEeWdwMtb7cWokQ" address="Wiedner Hauptstraße, 52, 1040" firstName="Philip" lastName="Langer" base_Class="_wl42sH8AEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Borrower xmi:id="_1BsToH8AEeWdwMtb7cWokQ" address="Agnes-Pockels-Bogen, 1, 80939" firstName="Alexandra" lastName="Buzila" base_Class="_xDyToH8AEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Borrower xmi:id="_13kywH8AEeWdwMtb7cWokQ" address="Broadway Boulevard, 3, 78421" firstName="Jane" lastName="Doe" base_Class="_xsB_YH8AEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Library xmi:id="_-29dsX8CEeWdwMtb7cWokQ" address="Rue Andre Chenier, 78,  69800" base_Package="_-29dsH8CEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Borrower xmi:id="_8E1J8X8mEeWdwMtb7cWokQ" address="Sunshine Street, 10, 554124 " firstName="Laurent" lastName=" Delaigue" base_Class="_8E1J8H8mEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Library xmi:id="_Q1kjEH8pEeWdwMtb7cWokQ" address="University Street, 6 , 555445" base_Package="_Q1j8AH8pEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Periodical xmi:id="_qqtVEX8pEeWdwMtb7cWokQ" title="Mickey Mouse Magazine 2015" publicationDate="2015" base_Class="_qqtVEH8pEeWdwMtb7cWokQ" issuesPerYear="12"/>
+  <ExtLibraryProfile:Borrower xmi:id="_z-kGEH8pEeWdwMtb7cWokQ" address="High Hopes Street, 17, 888745" firstName="John" lastName="Smith" base_Class="_z-jfAH8pEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Borrows xmi:id="_7CSyEH8qEeWdwMtb7cWokQ" base_Dependency="_bnrlUH8qEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Borrows xmi:id="_7v6tEH8qEeWdwMtb7cWokQ" base_Dependency="_cGfoQH8qEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Borrows xmi:id="_8fODEH8qEeWdwMtb7cWokQ" base_Dependency="_cibWUH8qEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Borrows xmi:id="_9S3tkH8qEeWdwMtb7cWokQ" base_Dependency="_dBQAUH8qEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Borrows xmi:id="_-L188H8qEeWdwMtb7cWokQ" base_Dependency="_dcr_IH8qEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Borrows xmi:id="_--logH8qEeWdwMtb7cWokQ" base_Dependency="_fmztUH8qEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Borrows xmi:id="__vDcIH8qEeWdwMtb7cWokQ" base_Dependency="_gAq-0H8qEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Borrows xmi:id="_e2nKAH8rEeWdwMtb7cWokQ" base_Dependency="_bpBMoH8rEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Borrows xmi:id="_fnIoAH8rEeWdwMtb7cWokQ" base_Dependency="_cE3bIH8rEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Borrows xmi:id="_gWC8cH8rEeWdwMtb7cWokQ" base_Dependency="_cqAvkH8rEeWdwMtb7cWokQ"/>
+</xmi:XMI>
