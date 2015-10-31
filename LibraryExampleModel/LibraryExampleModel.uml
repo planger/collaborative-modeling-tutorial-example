@@ -10,30 +10,30 @@
       <packagedElement xmi:type="uml:Class" xmi:id="_wfaU4H74EeWdwMtb7cWokQ" name="Into the Wild"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_xgsywH74EeWdwMtb7cWokQ" name="Eclipse Magazin 2015"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_ZA6_QH76EeWdwMtb7cWokQ" name="Java Magazin 2014"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_wl42sH8AEeWdwMtb7cWokQ" name="Philip Langer"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_xDyToH8AEeWdwMtb7cWokQ" name="Alexandra Buzila"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_z-jfAH8pEeWdwMtb7cWokQ" name="John Smith"/>
-      <packagedElement xmi:type="uml:Dependency" xmi:id="_bnrlUH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_gaBbIH73EeWdwMtb7cWokQ"/>
-      <packagedElement xmi:type="uml:Dependency" xmi:id="_cGfoQH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_hBqp8H73EeWdwMtb7cWokQ"/>
-      <packagedElement xmi:type="uml:Dependency" xmi:id="_cibWUH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_HnU6YH7zEeWdwMtb7cWokQ"/>
-      <packagedElement xmi:type="uml:Dependency" xmi:id="_dBQAUH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_xgsywH74EeWdwMtb7cWokQ"/>
-      <packagedElement xmi:type="uml:Dependency" xmi:id="_dcr_IH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_ZA6_QH76EeWdwMtb7cWokQ"/>
-      <packagedElement xmi:type="uml:Dependency" xmi:id="_fmztUH8qEeWdwMtb7cWokQ" client="_xDyToH8AEeWdwMtb7cWokQ" supplier="_MoqUAH74EeWdwMtb7cWokQ"/>
-      <packagedElement xmi:type="uml:Dependency" xmi:id="_gAq-0H8qEeWdwMtb7cWokQ" client="_xDyToH8AEeWdwMtb7cWokQ" supplier="_vP4msH74EeWdwMtb7cWokQ"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_hzNboH73EeWdwMtb7cWokQ" name="Brave New World "/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_Q1j8AH8pEeWdwMtb7cWokQ" name="University Library">
       <packagedElement xmi:type="uml:Class" xmi:id="_7FMSsH72EeWdwMtb7cWokQ" name="Murder on the Orient Express"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_hzNboH73EeWdwMtb7cWokQ" name="Brave New World "/>
       <packagedElement xmi:type="uml:Class" xmi:id="_e822YH7zEeWdwMtb7cWokQ" name="The Hitchhiker's Guide to the Galaxy"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_vvbCYH74EeWdwMtb7cWokQ" name="Catherine the Great: Portrait of a Woman "/>
       <packagedElement xmi:type="uml:Class" xmi:id="_W65G4H76EeWdwMtb7cWokQ" name="Smart Computing 2015"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_qqtVEH8pEeWdwMtb7cWokQ" name="Mickey Mouse Magazine 2015"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_8E1J8H8mEeWdwMtb7cWokQ" name="Laurent Delaigue"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_xsB_YH8AEeWdwMtb7cWokQ" name="Jane Doe"/>
-      <packagedElement xmi:type="uml:Dependency" xmi:id="_bpBMoH8rEeWdwMtb7cWokQ" client="_8E1J8H8mEeWdwMtb7cWokQ" supplier="_qqtVEH8pEeWdwMtb7cWokQ"/>
-      <packagedElement xmi:type="uml:Dependency" xmi:id="_cE3bIH8rEeWdwMtb7cWokQ" client="_8E1J8H8mEeWdwMtb7cWokQ" supplier="_vvbCYH74EeWdwMtb7cWokQ"/>
-      <packagedElement xmi:type="uml:Dependency" xmi:id="_cqAvkH8rEeWdwMtb7cWokQ" client="_xsB_YH8AEeWdwMtb7cWokQ" supplier="_e822YH7zEeWdwMtb7cWokQ"/>
     </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_wl42sH8AEeWdwMtb7cWokQ" name="Philip Langer"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_xDyToH8AEeWdwMtb7cWokQ" name="Alexandra Buzila"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_z-jfAH8pEeWdwMtb7cWokQ" name="John Smith"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_bnrlUH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_gaBbIH73EeWdwMtb7cWokQ"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_cGfoQH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_hBqp8H73EeWdwMtb7cWokQ"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_cibWUH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_HnU6YH7zEeWdwMtb7cWokQ"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_dBQAUH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_xgsywH74EeWdwMtb7cWokQ"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_dcr_IH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_ZA6_QH76EeWdwMtb7cWokQ"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_fmztUH8qEeWdwMtb7cWokQ" client="_xDyToH8AEeWdwMtb7cWokQ" supplier="_MoqUAH74EeWdwMtb7cWokQ"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_gAq-0H8qEeWdwMtb7cWokQ" client="_xDyToH8AEeWdwMtb7cWokQ" supplier="_vP4msH74EeWdwMtb7cWokQ"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_8E1J8H8mEeWdwMtb7cWokQ" name="Laurent Delaigue"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_xsB_YH8AEeWdwMtb7cWokQ" name="Jane Doe"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_bpBMoH8rEeWdwMtb7cWokQ" client="_8E1J8H8mEeWdwMtb7cWokQ" supplier="_qqtVEH8pEeWdwMtb7cWokQ"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_cE3bIH8rEeWdwMtb7cWokQ" client="_8E1J8H8mEeWdwMtb7cWokQ" supplier="_vvbCYH74EeWdwMtb7cWokQ"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_cqAvkH8rEeWdwMtb7cWokQ" client="_xsB_YH8AEeWdwMtb7cWokQ" supplier="_e822YH7zEeWdwMtb7cWokQ"/>
     <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_Up0gUH7zEeWdwMtb7cWokQ">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Up0gUX7zEeWdwMtb7cWokQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="http://Papyrus/ExtLibraryProfile#/"/>
