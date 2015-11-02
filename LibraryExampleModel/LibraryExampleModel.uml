@@ -7,10 +7,10 @@
       <packagedElement xmi:type="uml:Class" xmi:id="_HnU6YH7zEeWdwMtb7cWokQ" name="Do Androids Dream of Electric Sheep?"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_MoqUAH74EeWdwMtb7cWokQ" name="Snow Crash"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_vP4msH74EeWdwMtb7cWokQ" name="Furiously Happy: A Funny Book About Horrible Things"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_wfaU4H74EeWdwMtb7cWokQ" name="Into the Wild"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_xgsywH74EeWdwMtb7cWokQ" name="Eclipse Magazin 2015"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_ZA6_QH76EeWdwMtb7cWokQ" name="Java Magazin 2014"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_hzNboH73EeWdwMtb7cWokQ" name="Brave New World "/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_zxC5AIFOEeW2MNZMfu4WzQ" name="The Lion King"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_wl42sH8AEeWdwMtb7cWokQ" name="Philip Langer"/>
     <packagedElement xmi:type="uml:Class" xmi:id="_xDyToH8AEeWdwMtb7cWokQ" name="Alexandra Buzila"/>
@@ -35,7 +35,6 @@
   <ExtLibraryProfile:Book xmi:id="_LaHdQH74EeWdwMtb7cWokQ" title="Brave New World " publicationDate="1932" base_Class="_hzNboH73EeWdwMtb7cWokQ" copies="103" pages="268" category="ScienceFiction"/>
   <ExtLibraryProfile:Book xmi:id="_OiMogH74EeWdwMtb7cWokQ" title="Snow Crash" publicationDate="June 1992" base_Class="_MoqUAH74EeWdwMtb7cWokQ" copies="36" pages="470" category="ScienceFiction"/>
   <ExtLibraryProfile:Book xmi:id="_4RvowH74EeWdwMtb7cWokQ" title="Furiously Happy: A Funny Book About Horrible Things" publicationDate="22.09.2015" base_Class="_vP4msH74EeWdwMtb7cWokQ" copies="20" pages="329" category="Biography"/>
-  <ExtLibraryProfile:Book xmi:id="_5yMH0H74EeWdwMtb7cWokQ" title="Into the Wild" publicationDate="1996" base_Class="_wfaU4H74EeWdwMtb7cWokQ" copies="27" pages="207" category="Biography"/>
   <ExtLibraryProfile:Periodical xmi:id="_lM_wAH75EeWdwMtb7cWokQ" title="Eclipse Magazin" publicationDate="2015" base_Class="_xgsywH74EeWdwMtb7cWokQ" issuesPerYear="6"/>
   <ExtLibraryProfile:Periodical xmi:id="_OsE14H77EeWdwMtb7cWokQ" title="Java Magazin" publicationDate="2014" base_Class="_ZA6_QH76EeWdwMtb7cWokQ" issuesPerYear="12"/>
   <ExtLibraryProfile:Borrower xmi:id="_zlRY8H8AEeWdwMtb7cWokQ" address="Wiedner Hauptstraße, 52, 1040" firstName="Philip" lastName="Langer" base_Class="_wl42sH8AEeWdwMtb7cWokQ"/>
@@ -49,4 +48,5 @@
   <ExtLibraryProfile:Borrows xmi:id="_-L188H8qEeWdwMtb7cWokQ" base_Dependency="_dcr_IH8qEeWdwMtb7cWokQ"/>
   <ExtLibraryProfile:Borrows xmi:id="_--logH8qEeWdwMtb7cWokQ" base_Dependency="_fmztUH8qEeWdwMtb7cWokQ"/>
   <ExtLibraryProfile:Borrows xmi:id="__vDcIH8qEeWdwMtb7cWokQ" base_Dependency="_gAq-0H8qEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Book xmi:id="_zxGjYIFOEeW2MNZMfu4WzQ" title="" base_Class="_zxC5AIFOEeW2MNZMfu4WzQ"/>
 </xmi:XMI>
