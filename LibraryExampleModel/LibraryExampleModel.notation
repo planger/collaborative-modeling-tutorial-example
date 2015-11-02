@@ -414,6 +414,14 @@
       <element xsi:nil="true"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JwSQooAUEeW18uTbJL695w" x="966" y="259"/>
     </children>
+    <children xmi:type="notation:Shape" xmi:id="_ZBo3IIFOEeW2MNZMfu4WzQ" type="StereotypeComment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ZBo3IYFOEeW2MNZMfu4WzQ" showTitle="true"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_ZBo3I4FOEeW2MNZMfu4WzQ" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Dependency" href="LibraryExampleModel.uml#_WEoTcIFOEeW2MNZMfu4WzQ"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZBo3IoFOEeW2MNZMfu4WzQ" x="733" y="259"/>
+    </children>
     <styles xmi:type="notation:StringValueStyle" xmi:id="_OzmEQX8pEeWdwMtb7cWokQ" name="diagram_compatibility_version" stringValue="1.1.0"/>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_OzmEQn8pEeWdwMtb7cWokQ"/>
     <styles xmi:type="style:PapyrusViewStyle" xmi:id="_OzmEQ38pEeWdwMtb7cWokQ">
@@ -611,6 +619,29 @@
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_JwSQpoAUEeW18uTbJL695w" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JwSQp4AUEeW18uTbJL695w"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JwSQqIAUEeW18uTbJL695w"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_WEzSkIFOEeW2MNZMfu4WzQ" type="4008" source="_HJlUIIAUEeW18uTbJL695w" target="_C-RmoH8qEeWdwMtb7cWokQ">
+      <children xmi:type="notation:DecorationNode" xmi:id="_WE0gsIFOEeW2MNZMfu4WzQ" type="6026">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_WE0gsYFOEeW2MNZMfu4WzQ" y="40"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_WE1HwIFOEeW2MNZMfu4WzQ" type="6027">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_WE1HwYFOEeW2MNZMfu4WzQ" x="-5" y="38"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_WEzSkYFOEeW2MNZMfu4WzQ"/>
+      <element xmi:type="uml:Dependency" href="LibraryExampleModel.uml#_WEoTcIFOEeW2MNZMfu4WzQ"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WEzSkoFOEeW2MNZMfu4WzQ" points="[-4, -50, 15, 184]$[-18, -284, 1, -50]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_WG91wIFOEeW2MNZMfu4WzQ" id="(0.48,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_WG91wYFOEeW2MNZMfu4WzQ" id="(0.55,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_ZBo3JIFOEeW2MNZMfu4WzQ" type="StereotypeCommentLink" source="_WEzSkIFOEeW2MNZMfu4WzQ" target="_ZBo3IIFOEeW2MNZMfu4WzQ">
+      <styles xmi:type="notation:FontStyle" xmi:id="_ZBo3JYFOEeW2MNZMfu4WzQ"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_ZBo3KYFOEeW2MNZMfu4WzQ" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Dependency" href="LibraryExampleModel.uml#_WEoTcIFOEeW2MNZMfu4WzQ"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ZBo3JoFOEeW2MNZMfu4WzQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZBo3J4FOEeW2MNZMfu4WzQ"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZBo3KIFOEeW2MNZMfu4WzQ"/>
     </edges>
   </notation:Diagram>
 </xmi:XMI>

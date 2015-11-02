@@ -22,6 +22,7 @@
     <packagedElement xmi:type="uml:Dependency" xmi:id="_dcr_IH8qEeWdwMtb7cWokQ" client="_wl42sH8AEeWdwMtb7cWokQ" supplier="_ZA6_QH76EeWdwMtb7cWokQ"/>
     <packagedElement xmi:type="uml:Dependency" xmi:id="_fmztUH8qEeWdwMtb7cWokQ" client="_xDyToH8AEeWdwMtb7cWokQ" supplier="_MoqUAH74EeWdwMtb7cWokQ"/>
     <packagedElement xmi:type="uml:Dependency" xmi:id="_gAq-0H8qEeWdwMtb7cWokQ" client="_xDyToH8AEeWdwMtb7cWokQ" supplier="_vP4msH74EeWdwMtb7cWokQ"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_WEoTcIFOEeW2MNZMfu4WzQ" client="_z-jfAH8pEeWdwMtb7cWokQ" supplier="_wfaU4H74EeWdwMtb7cWokQ"/>
     <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_Up0gUH7zEeWdwMtb7cWokQ">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Up0gUX7zEeWdwMtb7cWokQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="http://Papyrus/ExtLibraryProfile#/"/>
@@ -49,4 +50,5 @@
   <ExtLibraryProfile:Borrows xmi:id="_-L188H8qEeWdwMtb7cWokQ" base_Dependency="_dcr_IH8qEeWdwMtb7cWokQ"/>
   <ExtLibraryProfile:Borrows xmi:id="_--logH8qEeWdwMtb7cWokQ" base_Dependency="_fmztUH8qEeWdwMtb7cWokQ"/>
   <ExtLibraryProfile:Borrows xmi:id="__vDcIH8qEeWdwMtb7cWokQ" base_Dependency="_gAq-0H8qEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Borrows xmi:id="_ZBd4AIFOEeW2MNZMfu4WzQ" base_Dependency="_WEoTcIFOEeW2MNZMfu4WzQ"/>
 </xmi:XMI>
