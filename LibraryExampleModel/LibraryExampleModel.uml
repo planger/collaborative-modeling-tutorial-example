@@ -10,7 +10,7 @@
       <packagedElement xmi:type="uml:Class" xmi:id="_wfaU4H74EeWdwMtb7cWokQ" name="Into the Wild"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_xgsywH74EeWdwMtb7cWokQ" name="Eclipse Magazin 2015"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_ZA6_QH76EeWdwMtb7cWokQ" name="Java Magazin 2014"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_hzNboH73EeWdwMtb7cWokQ" name="Brave New World "/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_rlWYAIFQEeW2MNZMfu4WzQ" name="Mr. Mercedes"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_wl42sH8AEeWdwMtb7cWokQ" name="Philip Langer"/>
     <packagedElement xmi:type="uml:Class" xmi:id="_xDyToH8AEeWdwMtb7cWokQ" name="Alexandra Buzila"/>
@@ -30,9 +30,8 @@
     </profileApplication>
   </uml:Model>
   <ExtLibraryProfile:Book xmi:id="_YiCIAH7zEeWdwMtb7cWokQ" title="Do Androids Dream of Electric Sheep?" publicationDate="28.05.1996" base_Class="_HnU6YH7zEeWdwMtb7cWokQ" copies="15" pages="256" category="ScienceFiction"/>
-  <ExtLibraryProfile:Book xmi:id="_piCIgH73EeWdwMtb7cWokQ" title="A Study in Scarlet" publicationDate="1887" base_Class="_gaBbIH73EeWdwMtb7cWokQ" copies="26" pages="108"/>
-  <ExtLibraryProfile:Book xmi:id="_5QrysH73EeWdwMtb7cWokQ" title="A Scandal in Bohemia" publicationDate="1891" base_Class="_hBqp8H73EeWdwMtb7cWokQ" copies="20" pages="85"/>
-  <ExtLibraryProfile:Book xmi:id="_LaHdQH74EeWdwMtb7cWokQ" title="Brave New World " publicationDate="1932" base_Class="_hzNboH73EeWdwMtb7cWokQ" copies="103" pages="268" category="ScienceFiction"/>
+  <ExtLibraryProfile:Book xmi:id="_piCIgH73EeWdwMtb7cWokQ" title="A Study in Scarlet" publicationDate="1887" base_Class="_gaBbIH73EeWdwMtb7cWokQ" copies="26" pages="108" category="Biography"/>
+  <ExtLibraryProfile:Book xmi:id="_5QrysH73EeWdwMtb7cWokQ" title="A Scandal in Bohemia" publicationDate="1891" base_Class="_hBqp8H73EeWdwMtb7cWokQ" copies="20" pages="85" category="ScienceFiction"/>
   <ExtLibraryProfile:Book xmi:id="_OiMogH74EeWdwMtb7cWokQ" title="Snow Crash" publicationDate="June 1992" base_Class="_MoqUAH74EeWdwMtb7cWokQ" copies="36" pages="470" category="ScienceFiction"/>
   <ExtLibraryProfile:Book xmi:id="_4RvowH74EeWdwMtb7cWokQ" title="Furiously Happy: A Funny Book About Horrible Things" publicationDate="22.09.2015" base_Class="_vP4msH74EeWdwMtb7cWokQ" copies="20" pages="329" category="Biography"/>
   <ExtLibraryProfile:Book xmi:id="_5yMH0H74EeWdwMtb7cWokQ" title="Into the Wild" publicationDate="1996" base_Class="_wfaU4H74EeWdwMtb7cWokQ" copies="27" pages="207" category="Biography"/>
@@ -49,4 +48,5 @@
   <ExtLibraryProfile:Borrows xmi:id="_-L188H8qEeWdwMtb7cWokQ" base_Dependency="_dcr_IH8qEeWdwMtb7cWokQ"/>
   <ExtLibraryProfile:Borrows xmi:id="_--logH8qEeWdwMtb7cWokQ" base_Dependency="_fmztUH8qEeWdwMtb7cWokQ"/>
   <ExtLibraryProfile:Borrows xmi:id="__vDcIH8qEeWdwMtb7cWokQ" base_Dependency="_gAq-0H8qEeWdwMtb7cWokQ"/>
+  <ExtLibraryProfile:Book xmi:id="_rlW_EIFQEeW2MNZMfu4WzQ" title="Mr. Mercedes" publicationDate="2014" base_Class="_rlWYAIFQEeW2MNZMfu4WzQ" pages="436"/>
 </xmi:XMI>
